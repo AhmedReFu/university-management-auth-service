@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\.da39041d05d8a5ebb87ef376a04a4b83a2c83558-audit.json",
+    "files": [
+        {
+            "date": 1723221436258,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-09-08-22-error.log",
+            "hash": "05a2acce67c603ba2667bcae54068d606063a3099ac576c07d20cafaeaf5ff81"
+        },
+        {
+            "date": 1723222815203,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-09-08-23-error.log",
+            "hash": "0f91af4e6b5bd35d0c2a0f23b31508effd68fe768e7dabb7457da1ca367698cc"
+        },
+        {
+            "date": 1723262841334,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-10-error.log",
+            "hash": "444bb0fa0515c582a412bae842f2a130c53e3f7958d6f2703b3c50144a188aa8"
+        },
+        {
+            "date": 1723266043395,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-11-error.log",
+            "hash": "55747bd1d8d94fccd37b02b4581db328057a27328792fb6e50ca7e6920b4b275"
+        },
+        {
+            "date": 1723269956025,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-12-error.log",
+            "hash": "1480c2b34bc7bf82b1a8ec8e63924eaeb135d6d3be37f1d9d2d9dec1eaea435f"
+        },
+        {
+            "date": 1723275809646,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-13-error.log",
+            "hash": "0930fcf5366cd2570dc9c22e2d9c60efa3d5fbc36bdf628a4e460cdc63131377"
+        },
+        {
+            "date": 1723277111693,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-14-error.log",
+            "hash": "6effcb7e6af68b28273d51623b4801a6af6d412b9adf63e622fa569a26c0bfe8"
+        },
+        {
+            "date": 1723281048218,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-15-error.log",
+            "hash": "1d607c51ab4ef3091f8b746c53561dbffe409bcc712b46caafeb7afeae2e33b9"
+        },
+        {
+            "date": 1723297915720,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\errors\\ahu-2024-10-08-19-error.log",
+            "hash": "688d77c9341775449d0c16ad3b0882990afe09dd5835c38a352bce3ea2f97d50"
+        }
+    ],
+    "hashType": "sha256"
+}
