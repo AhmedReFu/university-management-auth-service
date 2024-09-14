@@ -1,1 +1,0 @@
-Fri Aug 09 2024 22:37:47  [AR] error: Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 
