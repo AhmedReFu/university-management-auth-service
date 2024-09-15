@@ -14,6 +14,21 @@
             "date": 1726322864060,
             "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-14-09-20-success.log",
             "hash": "d70eda185853b73202bb86eb0b70f70acb4e1323091ce708fe83bb4120e2ba12"
+        },
+        {
+            "date": 1726326139715,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-14-09-21-success.log",
+            "hash": "29f7271930269d038902905a3d785bde9910631209ed23c570ec87ee3b0038d0"
+        },
+        {
+            "date": 1726329647344,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-14-09-22-success.log",
+            "hash": "80a073e499366b9c2a73a5ab010f6e22346ec3f2ed5f89109d3c658dc090a430"
+        },
+        {
+            "date": 1726333257967,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-14-09-23-success.log",
+            "hash": "8313216ebd5c2884e66c4a4b8d1e9c7bdca48484cd8f5a0b220edb61163c226b"
         }
     ],
     "hashType": "sha256"
