@@ -1,0 +1,30 @@
+Sun Sep 15 2024 11:9:37  [AR] error: 🚀 globalErrorHandler ~~~ Invalid Semester Code 
+Sun Sep 15 2024 11:10:10  [AR] error: 🚀 globalErrorHandler ~~~ Academic Semester is already exit ! 
+Sun Sep 15 2024 11:10:18  [AR] error: 🚀 globalErrorHandler ~~~ Academic Semester is already exit ! 
+Sun Sep 15 2024 11:10:40  [AR] error: 🚀 globalErrorHandler ~~~ [
+  {
+    "received": "Sep",
+    "code": "invalid_enum_value",
+    "options": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "path": [
+      "body",
+      "endMonth"
+    ],
+    "message": "Invalid enum value. Expected 'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December', received 'Sep'"
+  }
+] 
+Sun Sep 15 2024 11:10:52  [AR] error: 🚀 globalErrorHandler ~~~ Academic Semester is already exit ! 
+Sun Sep 15 2024 11:13:18  [AR] error: 🚀 globalErrorHandler ~~~ Cast to number failed for value "i" (type string) at path "year" for model "AcademicSemester" 

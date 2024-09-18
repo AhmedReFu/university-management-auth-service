@@ -1,0 +1,4 @@
+Mon Sep 16 2024 21:29:34  [AR] error: 🚀 globalErrorHandler ~~~ Cast to ObjectId failed for value "66e5a9204de9ddd83bc5941" (type string) at path "_id" for model "AcademicSemester" 
+Mon Sep 16 2024 21:30:9  [AR] error: 🚀 globalErrorHandler ~~~ Cast to ObjectId failed for value "66e5a9204de9ddd83bc5941" (type string) at path "_id" for model "AcademicSemester" 
+Mon Sep 16 2024 21:33:16  [AR] error: 🚀 globalErrorHandler ~~~ Cast to ObjectId failed for value "66e5a9204de9ddd83bc5941" (type string) at path "_id" for model "AcademicSemester" 
+Mon Sep 16 2024 21:50:39  [AR] error: 🚀 globalErrorHandler ~~~ Cast to ObjectId failed for value "66e5a9204de9ddd83bc5941" (type string) at path "_id" for model "AcademicSemester" 

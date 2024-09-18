@@ -1,0 +1,69 @@
+Mon Sep 16 2024 22:37:18  [AR] error: 🚀 globalErrorHandler ~~~ [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "startMonth"
+    ],
+    "message": "Start Month is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "endMonth"
+    ],
+    "message": "End Month is required"
+  }
+] 
+Mon Sep 16 2024 22:37:32  [AR] error: 🚀 globalErrorHandler ~~~ [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "startMonth"
+    ],
+    "message": "Start Month is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "endMonth"
+    ],
+    "message": "End Month is required"
+  }
+] 
+Mon Sep 16 2024 22:40:46  [AR] error: 🚀 globalErrorHandler ~~~ [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+] 
+Mon Sep 16 2024 22:42:40  [AR] error: 🚀 globalErrorHandler ~~~ Invalid Semester Code 
+Mon Sep 16 2024 22:42:52  [AR] error: 🚀 globalErrorHandler ~~~ [
+  {
+    "received": "Autum",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'Autum'"
+  }
+] 
+Mon Sep 16 2024 22:43:2  [AR] error: 🚀 globalErrorHandler ~~~ Invalid Semester Code 

@@ -1,8 +1,8 @@
 import { NextFunction, Request, Response } from 'express'
-import { AnyZodObject, z } from 'zod'
+import { AnyZodObject, z, ZodEffects } from 'zod';
 
 const validateRequest =
-  (schema: AnyZodObject) =>
+  (schema: AnyZodObject | ZodEffects<AnyZodObject>) =>
   async (req: Request, res: Response, next: NextFunction) => {
     try {
       await schema.parseAsync({
@@ -10,12 +10,12 @@ const validateRequest =
         query: req.query,
         params: req.params,
         cookies: req.cookies,
-      })
+      });
 
-      return next()
+      return next();
     } catch (error) {
-      next(error)
+      next(error);
     }
-  }
+  };
 
 export default validateRequest

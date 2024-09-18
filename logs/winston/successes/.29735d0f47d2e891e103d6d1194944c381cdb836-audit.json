@@ -29,6 +29,51 @@
             "date": 1726333257967,
             "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-14-09-23-success.log",
             "hash": "8313216ebd5c2884e66c4a4b8d1e9c7bdca48484cd8f5a0b220edb61163c226b"
+        },
+        {
+            "date": 1726376781919,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-15-09-11-success.log",
+            "hash": "227629a37b7a187d52b67f70c6bcb72ba11f3f91354373f2a820d6cbe0f6d099"
+        },
+        {
+            "date": 1726405109678,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-15-09-18-success.log",
+            "hash": "81d6d745276dc7ce9aabcc9d70b797942efb3c345399b566d8014d975ab1396f"
+        },
+        {
+            "date": 1726405614571,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-15-09-19-success.log",
+            "hash": "23255efa9e7ae3bf7256461729f65115ec625a46173838f8ee3317fe0b25a20c"
+        },
+        {
+            "date": 1726418000561,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-15-09-22-success.log",
+            "hash": "be53591898187f4a239f4a8559535ba54f0a51a522ba475d200f77319d0de7f1"
+        },
+        {
+            "date": 1726467236398,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-16-09-12-success.log",
+            "hash": "bfa0392a697356f8267e3fac8f789f3647c91c0bb88b989c380cc9b63a002bf7"
+        },
+        {
+            "date": 1726491992776,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-16-09-19-success.log",
+            "hash": "9a989bf0b910fe271bd7bbad2404845e1d9a9a4a3c401fc4b272640dc6d8f29b"
+        },
+        {
+            "date": 1726500471553,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-16-09-21-success.log",
+            "hash": "956d55bbee8211f188b6bc059c98407e63da7868de4c6afe600774a1be5e5765"
+        },
+        {
+            "date": 1726502438590,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-16-09-22-success.log",
+            "hash": "b9a4c4d266b72c3ea8c5b43e04b00da93940b14968d1d5e4e51e7f4219f9101a"
+        },
+        {
+            "date": 1726560217485,
+            "name": "C:\\Apolo Level 2\\university-management-auth-service\\logs\\winston\\successes\\ahu-2024-17-09-14-success.log",
+            "hash": "7ff139c22848c3a59bf762f8c0aafed3d874c48e2f03607f60627a79e36e1b62"
         }
     ],
     "hashType": "sha256"
